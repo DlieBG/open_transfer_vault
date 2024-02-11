@@ -1,2 +1,2 @@
-# open_transfer_vault
-Discovering the limits of transfer.sh
+# Open Transfer Vault
+Discovering the limits of transfer.sh - FOR EDUCATIONAL PURPOSES ONLY
